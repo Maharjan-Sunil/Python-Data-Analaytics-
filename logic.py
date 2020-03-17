@@ -25,5 +25,6 @@
 
 # displayCrushName(names);
 
-sportsPerson = ['Ronaldo', 'Messi', 'Coutino'];
-print(sportsPerson[:0]);
+sportsPerson = ['Ronaldo', 'Messi', 'Coutino']
+ballondronWinner = sportsPerson.pop(2)
+print (ballondronWinner)
