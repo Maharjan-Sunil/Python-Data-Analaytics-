@@ -34,4 +34,5 @@ y=[10,15,13,9]
 
 #math mathematical tools
 print('the average score is ' + str(np.mean(y)))
-print('the standard deviation in score is ' + str(round(np.std(y),2)))
+
+
