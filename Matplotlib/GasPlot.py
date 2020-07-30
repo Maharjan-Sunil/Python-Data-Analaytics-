@@ -1,7 +1,3 @@
-# def my_func(n1, n2): 
-#     print(n1 + n2)
-# my_func(1, 2)
-
 #data visualization for GAS usages in Surja Residence
 from matplotlib import pyplot as ply
 import numpy as np
