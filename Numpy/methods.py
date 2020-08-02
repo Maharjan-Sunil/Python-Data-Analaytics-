@@ -32,3 +32,6 @@ print(np_array)
 
 #ravel transform in one dimensional
 # print(np_array.ravel().shape)
+
+#arrange return list 
+print(np.arange(1,100,5))
